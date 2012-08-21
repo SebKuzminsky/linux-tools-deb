@@ -1,3 +1,12 @@
+linux-tools (3.4-linuxcnc2) UNRELEASED; urgency=low
+
+  * cherry-picked 784d0fc795fb7b8b9f6a6186335caa171c16225c:
+    * genorig: Accept xz-compressed upstream tarballs and patches, and
+      generate an xz-compressed orig tarball, thanks to Sedat Dilek
+    * source: Enable xz-compression for debian directory tarball
+
+ -- Sebastian Kuzminsky <seb@highlab.com>  Thu, 12 Jun 2014 22:33:04 -0600
+
 linux-tools (3.4-1~experimental.1) experimental; urgency=low
 
   * New upstream release
