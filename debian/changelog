@@ -1,3 +1,9 @@
+linux-tools (4.4.6-1~bpo8+1) jessie-backports; urgency=medium
+
+  * Rebuild for jessie-backports.
+
+ -- Héctor Orón Martínez <zumbi@debian.org>  Sun, 29 May 2016 11:18:30 +0200
+
 linux-tools (4.4.6-1) unstable; urgency=medium
 
   * New upstream stable update:
